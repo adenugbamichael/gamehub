@@ -84,6 +84,7 @@ body {
   font-family: "Montserrat Regular", "Verdana", sans-serif !important;
   font-size: 15px;
 }
+
 /* body {
   background-color: #14181d;
   color: #fff;
@@ -94,3 +95,54 @@ body {
   margin: 0 !important;
   overscroll-behavior: none;
 } */
+
+h1 {
+  color: #fff;
+  font-family: "Montserrat ExtraBold", "Arial Black", sans-serif;
+  font-size: 48px;
+  line-height: 64px;
+  text-align: left;
+}
+
+h2 {
+  color: #fff;
+  font-family: "Montserrat ExtraBold", "Arial Black", sans-serif !important;
+  font-size: 40px;
+  /* font-size: 1.875rem !important; */
+  line-height: 56px;
+  text-align: left;
+}
+
+h3 {
+  color: #fff;
+  font-family: "Montserrat ExtraBold", "Arial Black", sans-serif;
+  font-size: 28px;
+  line-height: 34px;
+  text-align: left;
+}
+
+/* @media(min-width: 768px)and (max-width:1279px) {
+                .h3-container h3[data-v-656d1b9f] {
+                    color:#fff;
+                    font-family: "Montserrat ExtraBold","Arial Black",sans-serif;
+                    font-size: 22px;
+                    line-height: 28px;
+                    text-align: left
+                }
+            } */
+
+h4 {
+  color: #fff;
+  font-family: "Montserrat ExtraBold", "Arial Black", sans-serif;
+  font-size: 24px;
+  line-height: 40px;
+  text-align: left;
+}
+
+h5 {
+  color: #fff;
+  font-family: "Montserrat ExtraBold", "Arial Black", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: left;
+}
