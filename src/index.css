@@ -95,14 +95,20 @@ body {
   margin: 0 !important;
   overscroll-behavior: none;
 } */
-
-h1 {
+button {
+  color: #fff;
+  font-family: "Montserrat Regular", "Verdana", sans-serif;
+  font-size: 15px !important;
+  font-weight: 400;
+  opacity: 0.8;
+}
+/* h1 {
   color: #fff;
   font-family: "Montserrat ExtraBold", "Arial Black", sans-serif;
   font-size: 48px;
   line-height: 64px;
   text-align: left;
-}
+} */
 
 h2 {
   color: #fff;
