@@ -107,7 +107,7 @@ h1 {
 h2 {
   color: #fff;
   font-family: "Montserrat ExtraBold", "Arial Black", sans-serif !important;
-  font-size: 40px;
+  /* font-size: 40px; */
   /* font-size: 1.875rem !important; */
   line-height: 56px;
   text-align: left;
