@@ -101,6 +101,9 @@ h2 {
   line-height: 56px;
   text-align: left;
 }
+form {
+  width: 100%;
+}
 
 /* h3 {
   color: #fff;

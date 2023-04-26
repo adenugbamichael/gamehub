@@ -3,11 +3,15 @@ import micro from "../assets/micro.svg"
 import ColorModeSwitch from "./ColorModeSwitch"
 import SearchInput from "./SearchInput"
 
-const NavBar = () => {
+interface Props {
+  onSearch: (searchText: string) => void
+}
+
+const NavBar = ({ onSearch }: Props) => {
   return (
     <HStack padding='10px'>
-      <Image src={micro} boxSize='60px' />
-      <SearchInput />
+      <Image src={micro} boxSize='50px' />
+      <SearchInput onSearch={onSearch} />
       <ColorModeSwitch />
     </HStack>
   )
