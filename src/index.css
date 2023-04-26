@@ -93,6 +93,11 @@ button {
   opacity: 0.8;
 }
 
+h1 {
+  font-family: "Montserrat ExtraBold", "Arial Black", sans-serif !important;
+  font-size: 40px !important;
+}
+
 h2 {
   /* color: #fff; */
   font-family: "Montserrat ExtraBold", "Arial Black", sans-serif !important;
