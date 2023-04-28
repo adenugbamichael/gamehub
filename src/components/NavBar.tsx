@@ -10,7 +10,6 @@ const NavBar = () => {
       <Link to='/'>
         <Image src={micro} boxSize='60px' />
       </Link>
-
       <SearchInput />
       <ColorModeSwitch />
     </HStack>
