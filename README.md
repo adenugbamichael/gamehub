@@ -1,5 +1,7 @@
 # Gamehub
 
+<img src="./src/assets/hub.gif" width="100%"/>
+
 Gamehub is a video game discovery web app that helps you find new and interesting games to play, you can search for games by platform, genre, and more.
 
 This is the project build
@@ -20,4 +22,5 @@ This is the project build
 - Implement form validation using Zod
 - Connect your React app to the backend
 - Deploy your React app
+
 # gamehub
